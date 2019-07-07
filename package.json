@@ -1,0 +1,29 @@
+{
+  "name": "LIRIbot",
+  "version": "1.0.0",
+  "description": "LIRI is a Language Interpretation and Recognition Interface. LIRI is a command line node app that takes in parameters and gives you back data.",
+  "main": "liri.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/paulgon/LIRIbot.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/paulgon/LIRIbot/issues"
+  },
+  "homepage": "https://github.com/paulgon/LIRIbot#readme",
+  "dependencies": {
+    "axios": "^0.19.0",
+    "bandsintown-events": "^1.0.4",
+    "dotenv": "^8.0.0",
+    "file-system": "^2.2.2",
+    "moment": "^2.24.0",
+    "node-spotify-api": "^1.1.1",
+    "xhr2": "^0.2.0"
+  }
+}
